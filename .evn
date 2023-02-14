@@ -1,1 +1,3 @@
-pORT = 5000
+PORT = 5000
+MONGO_URI = mongodb+srv://faisalakram:faisalakram@cluster0.wjkvz1t.mongodb.net/?retryWrites=true&w=majority
+

@@ -1,0 +1,6 @@
+{
+  "mongoURI": "mongodb+srv://faisalakram:faisalakram@cluster0.wjkvz1t.mongodb.net/?retryWrites=true&w=majority",
+  "jwtSecret": "mySecretToken",
+  "githubClientId": "1f5112646eef8907feb0",
+  "githubSecret": "ddc7ff85caaae62832109a7402479962b921eaee "
+}
